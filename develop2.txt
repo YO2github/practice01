@@ -1,1 +1,2 @@
 develop2ブランチ用の新規ファイル
+dev_sekiguchiブランチのための変更

@@ -1,2 +1,3 @@
 develop2ブランチ用の新規ファイル
 dev_sekiguchiブランチのための変更
+dev_sekiguchi_20210115_02ブランチのための変更
